@@ -1,6 +1,0 @@
-module Pods_Waterfront_WaterfrontTests {
-  umbrella header "Pods-Waterfront-WaterfrontTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
