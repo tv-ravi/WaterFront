@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "111297056732",
+    "firebase_url": "https://waterfrontsephon.firebaseio.com",
+    "project_id": "waterfrontsephon",
+    "storage_bucket": "waterfrontsephon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111297056732:android:9eb8258e25a004d9",
+        "android_client_info": {
+          "package_name": "com.sephone.WaterfrontConcertsNew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111297056732-dvpoc7ji8f7q2j14ti564s0d0qe5lnhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sephone.WaterfrontConcertsNew",
+            "certificate_hash": "aedf986c599e9265e7bec4045e5c64655e07b369"
+          }
+        },
+        {
+          "client_id": "111297056732-urfo6je1or5s2mau5spc8qsut3t2fgn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH10oL1HEFkNMmY0f2j4-5GBsOCIUB2y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111297056732-urfo6je1or5s2mau5spc8qsut3t2fgn3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111297056732-il9nujhiru7j294nrfqfk7o28328uq8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sephone.WaterfrontConcerts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
